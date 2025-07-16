@@ -46,7 +46,7 @@ graphql-auth-demo/
 
 ---
 
-## ⚙Setup & Installation
+## Setup & Installation
 
 ### 1. Clone the repo
 
@@ -140,7 +140,7 @@ query {
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Passwords are securely hashed before saving.
 * The JWT contains the user ID and is signed using your `APP_SECRET`.
@@ -148,12 +148,12 @@ query {
 
 ---
 
-## 🙌 Credits
+## Credits
 
 Inspired by the ["HowToGraphQL - TypeScript + Apollo Server"](https://www.howtographql.com/) backend track.
 
 ---
 
-## 📄 License
+## License
 
 This project is open source under the [MIT License](LICENSE).
